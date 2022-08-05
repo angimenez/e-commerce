@@ -1,1 +1,0 @@
-alert("ENTRGEA 1");
